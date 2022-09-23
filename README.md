@@ -1,2 +1,14 @@
 # WARNING-REMOTE-HOST-IDENTIFICATION-HAS-CHANGED-
 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
+
+
+<img src="1.png"/>
+
+```
+ssh-keygen -R "80.209.236.XX"
+```
+
+connect again
+```
+ssh 80.209.236.XX 
+```
